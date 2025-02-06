@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Likhith&#39;s Profile</title>
-    <link>https://hugo-profile.netlify.app/blogs/</link>
+    <link>https://likhith1409.github.io/likhith_portfolio/blogs/</link>
     <description>Recent content in Blogs on Likhith&#39;s Profile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Feb 2025 12:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hugo-profile.netlify.app/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://likhith1409.github.io/likhith_portfolio/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plastic Classification using Transfer Learning</title>
-      <link>https://hugo-profile.netlify.app/blogs/plastic-classification-with-tensorflow/</link>
+      <link>https://likhith1409.github.io/likhith_portfolio/blogs/plastic-classification-with-tensorflow/</link>
       <pubDate>Mon, 03 Feb 2025 12:00:00 +0000</pubDate>
-      <guid>https://hugo-profile.netlify.app/blogs/plastic-classification-with-tensorflow/</guid>
+      <guid>https://likhith1409.github.io/likhith_portfolio/blogs/plastic-classification-with-tensorflow/</guid>
       <description>&lt;h2 id=&#34;plastic-classification-using-transfer-learning&#34;&gt;Plastic Classification using Transfer Learning&lt;/h2&gt;&#xA;&lt;p&gt;In this blog post, we will walk through the process of building a deep learning model to classify different types of plastic using &lt;strong&gt;Transfer Learning&lt;/strong&gt; with &lt;strong&gt;TensorFlow&lt;/strong&gt;. We will use a pre-trained &lt;strong&gt;MobileNetV2&lt;/strong&gt; model and fine-tune it for our specific task. The goal is to classify plastic images into one of seven categories: &lt;strong&gt;HDPE, LDPE, Other, PET, PP, PS, PVC&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#introduction&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#dataset-preparation&#34;&gt;Dataset Preparation&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#model-building&#34;&gt;Model Building&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#training-the-model&#34;&gt;Training the Model&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#model-evaluation&#34;&gt;Model Evaluation&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#visualizing-results&#34;&gt;Visualizing Results&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#conclusion&#34;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Plastic classification is an important task in recycling and waste management. Automating this process using deep learning can significantly improve efficiency. In this project, we leverage &lt;strong&gt;Transfer Learning&lt;/strong&gt; to build a model that can classify different types of plastic based on images.&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI-API-Integrator</title>
-      <link>https://hugo-profile.netlify.app/blogs/ai_api_integrator/</link>
+      <link>https://likhith1409.github.io/likhith_portfolio/blogs/ai_api_integrator/</link>
       <pubDate>Tue, 10 Sep 2024 12:00:00 +0000</pubDate>
-      <guid>https://hugo-profile.netlify.app/blogs/ai_api_integrator/</guid>
+      <guid>https://likhith1409.github.io/likhith_portfolio/blogs/ai_api_integrator/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;strong&gt;AI-API Integrator&lt;/strong&gt; project is a powerful solution aimed at integrating AI models with various applications seamlessly. With this tool, developers can easily integrate pre-trained AI models into their systems using APIs. The project is based on Python and Flask, ensuring a lightweight yet robust framework for your AI needs.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Simple Integration&lt;/strong&gt;: Connect any AI model via an easy-to-use API.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scalable&lt;/strong&gt;: Built for large-scale applications, with support for multiple models and API endpoints.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lightweight&lt;/strong&gt;: Developed with Python and Flask for fast execution and minimal overhead.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;&#xA;&lt;p&gt;To install the AI-API Integrator, simply clone the repository and install the dependencies:&lt;/p&gt;</description>
     </item>
     <item>
       <title>XGBoostGuard - Detecting Online Payment Fraud with XGBoost</title>
-      <link>https://hugo-profile.netlify.app/blogs/xgboostguard-detecting-online-payment-fraud/</link>
+      <link>https://likhith1409.github.io/likhith_portfolio/blogs/xgboostguard-detecting-online-payment-fraud/</link>
       <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
-      <guid>https://hugo-profile.netlify.app/blogs/xgboostguard-detecting-online-payment-fraud/</guid>
+      <guid>https://likhith1409.github.io/likhith_portfolio/blogs/xgboostguard-detecting-online-payment-fraud/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;XGBoostGuard&lt;/strong&gt; is a robust fraud detection system built with the powerful XGBoost machine learning algorithm. It leverages various transaction-related features to detect potential fraudulent transactions automatically. With an impressive 99.00% accuracy rate, XGBoostGuard is designed to protect online payments from fraud and is an essential tool for financial institutions and e-commerce platforms.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;High Accuracy&lt;/strong&gt;: Achieves a 99.00% accuracy rate in detecting fraudulent transactions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Efficient Model&lt;/strong&gt;: Built using the XGBoost algorithm for fast and scalable fraud detection.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Real-Time Predictions&lt;/strong&gt;: Designed for quick decision-making, enabling real-time fraud detection.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;User Input Integration&lt;/strong&gt;: Allows users to input transaction details and predict fraud status instantly.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;&#xA;&lt;p&gt;To get started with XGBoostGuard, clone the repository and install the required dependencies:&lt;/p&gt;</description>
     </item>
   </channel>
