@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Likhith&#39;s Profile</title>
+    <link>https://hugo-profile.netlify.app/tags/</link>
+    <description>Recent content in Tags on Likhith&#39;s Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Feb 2025 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hugo-profile.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Learning</title>
+      <link>https://hugo-profile.netlify.app/tags/deep-learning/</link>
+      <pubDate>Mon, 03 Feb 2025 12:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Image Classification</title>
+      <link>https://hugo-profile.netlify.app/tags/image-classification/</link>
+      <pubDate>Mon, 03 Feb 2025 12:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/image-classification/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plastic Classification</title>
+      <link>https://hugo-profile.netlify.app/tags/plastic-classification/</link>
+      <pubDate>Mon, 03 Feb 2025 12:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/plastic-classification/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TensorFlow</title>
+      <link>https://hugo-profile.netlify.app/tags/tensorflow/</link>
+      <pubDate>Mon, 03 Feb 2025 12:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transfer Learning</title>
+      <link>https://hugo-profile.netlify.app/tags/transfer-learning/</link>
+      <pubDate>Mon, 03 Feb 2025 12:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/transfer-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI Integration</title>
+      <link>https://hugo-profile.netlify.app/tags/ai-integration/</link>
+      <pubDate>Tue, 10 Sep 2024 12:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/ai-integration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI Solutions</title>
+      <link>https://hugo-profile.netlify.app/tags/ai-solutions/</link>
+      <pubDate>Tue, 10 Sep 2024 12:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/ai-solutions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>API Development</title>
+      <link>https://hugo-profile.netlify.app/tags/api-development/</link>
+      <pubDate>Tue, 10 Sep 2024 12:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/api-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flask</title>
+      <link>https://hugo-profile.netlify.app/tags/flask/</link>
+      <pubDate>Tue, 10 Sep 2024 12:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/flask/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://hugo-profile.netlify.app/tags/python/</link>
+      <pubDate>Tue, 10 Sep 2024 12:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Science</title>
+      <link>https://hugo-profile.netlify.app/tags/data-science/</link>
+      <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/data-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fraud Detection</title>
+      <link>https://hugo-profile.netlify.app/tags/fraud-detection/</link>
+      <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/fraud-detection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>https://hugo-profile.netlify.app/tags/machine-learning/</link>
+      <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>XGBoost</title>
+      <link>https://hugo-profile.netlify.app/tags/xgboost/</link>
+      <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/xgboost/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

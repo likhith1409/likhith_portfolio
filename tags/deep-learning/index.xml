@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning on Likhith&#39;s Profile</title>
+    <link>https://hugo-profile.netlify.app/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on Likhith&#39;s Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Feb 2025 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hugo-profile.netlify.app/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plastic Classification using Transfer Learning</title>
+      <link>https://hugo-profile.netlify.app/blogs/plastic-classification-with-tensorflow/</link>
+      <pubDate>Mon, 03 Feb 2025 12:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/blogs/plastic-classification-with-tensorflow/</guid>
+      <description>&lt;h2 id=&#34;plastic-classification-using-transfer-learning&#34;&gt;Plastic Classification using Transfer Learning&lt;/h2&gt;&#xA;&lt;p&gt;In this blog post, we will walk through the process of building a deep learning model to classify different types of plastic using &lt;strong&gt;Transfer Learning&lt;/strong&gt; with &lt;strong&gt;TensorFlow&lt;/strong&gt;. We will use a pre-trained &lt;strong&gt;MobileNetV2&lt;/strong&gt; model and fine-tune it for our specific task. The goal is to classify plastic images into one of seven categories: &lt;strong&gt;HDPE, LDPE, Other, PET, PP, PS, PVC&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#introduction&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#dataset-preparation&#34;&gt;Dataset Preparation&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#model-building&#34;&gt;Model Building&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#training-the-model&#34;&gt;Training the Model&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#model-evaluation&#34;&gt;Model Evaluation&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#visualizing-results&#34;&gt;Visualizing Results&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#conclusion&#34;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Plastic classification is an important task in recycling and waste management. Automating this process using deep learning can significantly improve efficiency. In this project, we leverage &lt;strong&gt;Transfer Learning&lt;/strong&gt; to build a model that can classify different types of plastic based on images.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
