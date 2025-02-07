@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>XGBoost on Likhith&#39;s Profile</title>
-    <link>https://likhith1409.github.io/likhith_portfolio/tags/xgboost/</link>
+    <link>https://likhithreddy-portfolio.netlify.app/tags/xgboost/</link>
     <description>Recent content in XGBoost on Likhith&#39;s Profile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Oct 2023 12:00:00 +0000</lastBuildDate>
-    <atom:link href="https://likhith1409.github.io/likhith_portfolio/tags/xgboost/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://likhithreddy-portfolio.netlify.app/tags/xgboost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>XGBoostGuard - Detecting Online Payment Fraud with XGBoost</title>
-      <link>https://likhith1409.github.io/likhith_portfolio/blogs/xgboostguard-detecting-online-payment-fraud/</link>
+      <link>https://likhithreddy-portfolio.netlify.app/blogs/xgboostguard-detecting-online-payment-fraud/</link>
       <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
-      <guid>https://likhith1409.github.io/likhith_portfolio/blogs/xgboostguard-detecting-online-payment-fraud/</guid>
+      <guid>https://likhithreddy-portfolio.netlify.app/blogs/xgboostguard-detecting-online-payment-fraud/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;XGBoostGuard&lt;/strong&gt; is a robust fraud detection system built with the powerful XGBoost machine learning algorithm. It leverages various transaction-related features to detect potential fraudulent transactions automatically. With an impressive 99.00% accuracy rate, XGBoostGuard is designed to protect online payments from fraud and is an essential tool for financial institutions and e-commerce platforms.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;High Accuracy&lt;/strong&gt;: Achieves a 99.00% accuracy rate in detecting fraudulent transactions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Efficient Model&lt;/strong&gt;: Built using the XGBoost algorithm for fast and scalable fraud detection.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Real-Time Predictions&lt;/strong&gt;: Designed for quick decision-making, enabling real-time fraud detection.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;User Input Integration&lt;/strong&gt;: Allows users to input transaction details and predict fraud status instantly.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;&#xA;&lt;p&gt;To get started with XGBoostGuard, clone the repository and install the required dependencies:&lt;/p&gt;</description>
     </item>
   </channel>

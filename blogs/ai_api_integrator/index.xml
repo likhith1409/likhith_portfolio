@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI-API-Integrator on Likhith&#39;s Profile</title>
-    <link>https://likhith1409.github.io/likhith_portfolio/blogs/ai_api_integrator/</link>
+    <link>https://likhithreddy-portfolio.netlify.app/blogs/ai_api_integrator/</link>
     <description>Recent content in AI-API-Integrator on Likhith&#39;s Profile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://likhith1409.github.io/likhith_portfolio/blogs/ai_api_integrator/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://likhithreddy-portfolio.netlify.app/blogs/ai_api_integrator/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

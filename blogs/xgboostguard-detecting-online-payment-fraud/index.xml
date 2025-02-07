@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>XGBoostGuard - Detecting Online Payment Fraud with XGBoost on Likhith&#39;s Profile</title>
-    <link>https://likhith1409.github.io/likhith_portfolio/blogs/xgboostguard-detecting-online-payment-fraud/</link>
+    <link>https://likhithreddy-portfolio.netlify.app/blogs/xgboostguard-detecting-online-payment-fraud/</link>
     <description>Recent content in XGBoostGuard - Detecting Online Payment Fraud with XGBoost on Likhith&#39;s Profile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://likhith1409.github.io/likhith_portfolio/blogs/xgboostguard-detecting-online-payment-fraud/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://likhithreddy-portfolio.netlify.app/blogs/xgboostguard-detecting-online-payment-fraud/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
